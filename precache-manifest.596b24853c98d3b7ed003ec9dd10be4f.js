@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f60065b169c530defaad6719351ed2d1",
+    "revision": "f6b6de9422f6b57a8095e9d18a14c145",
     "url": "/ant2020/index.html"
   },
   {
-    "revision": "de54946692616f02d426",
-    "url": "/ant2020/static/css/main.75168d4c.chunk.css"
+    "revision": "57b8e99d6b821dcda5ae",
+    "url": "/ant2020/static/css/main.387a3c70.chunk.css"
   },
   {
     "revision": "9e0e80c246f41155176e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ant2020/static/js/2.d3747d54.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de54946692616f02d426",
-    "url": "/ant2020/static/js/main.7ad36cbe.chunk.js"
+    "revision": "57b8e99d6b821dcda5ae",
+    "url": "/ant2020/static/js/main.7adac5f6.chunk.js"
   },
   {
     "revision": "19d361d68c7dbdda8ec4",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "31298dd8cfae0bfff8db9374cdf09e6f",
     "url": "/ant2020/static/media/markets.31298dd8.png"
+  },
+  {
+    "revision": "b2a921aee065273956f35c08c13f8214",
+    "url": "/ant2020/static/media/mask.b2a921ae.png"
   }
 ]);
