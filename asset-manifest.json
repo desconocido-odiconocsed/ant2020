@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ant2020/static/css/main.387a3c70.chunk.css",
-    "main.js": "/ant2020/static/js/main.c262f45d.chunk.js",
-    "main.js.map": "/ant2020/static/js/main.c262f45d.chunk.js.map",
+    "main.css": "/ant2020/static/css/main.5b9d67a6.chunk.css",
+    "main.js": "/ant2020/static/js/main.3499ffcc.chunk.js",
+    "main.js.map": "/ant2020/static/js/main.3499ffcc.chunk.js.map",
     "runtime-main.js": "/ant2020/static/js/runtime-main.4eb3c8bd.js",
     "runtime-main.js.map": "/ant2020/static/js/runtime-main.4eb3c8bd.js.map",
     "static/js/2.d3747d54.chunk.js": "/ant2020/static/js/2.d3747d54.chunk.js",
     "static/js/2.d3747d54.chunk.js.map": "/ant2020/static/js/2.d3747d54.chunk.js.map",
     "index.html": "/ant2020/index.html",
-    "precache-manifest.37387d9f34b754dc49a4f163a9513015.js": "/ant2020/precache-manifest.37387d9f34b754dc49a4f163a9513015.js",
+    "precache-manifest.8be9c759f9687376f18706e9d8f4a9d2.js": "/ant2020/precache-manifest.8be9c759f9687376f18706e9d8f4a9d2.js",
     "service-worker.js": "/ant2020/service-worker.js",
-    "static/css/main.387a3c70.chunk.css.map": "/ant2020/static/css/main.387a3c70.chunk.css.map",
+    "static/css/main.5b9d67a6.chunk.css.map": "/ant2020/static/css/main.5b9d67a6.chunk.css.map",
     "static/js/2.d3747d54.chunk.js.LICENSE.txt": "/ant2020/static/js/2.d3747d54.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ant2020/static/media/mask.b2a921ae.png"
+    "static/media/App.css": "/ant2020/static/media/pit.dcca225c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4eb3c8bd.js",
     "static/js/2.d3747d54.chunk.js",
-    "static/css/main.387a3c70.chunk.css",
-    "static/js/main.c262f45d.chunk.js"
+    "static/css/main.5b9d67a6.chunk.css",
+    "static/js/main.3499ffcc.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ab3132299dd8a265e1ba919546a9c7f",
+    "revision": "8ff72af50a12bb90282afeb8915ac3e6",
     "url": "/ant2020/index.html"
   },
   {
-    "revision": "0518cb900ed27395575b",
-    "url": "/ant2020/static/css/main.387a3c70.chunk.css"
+    "revision": "ad304dfa57072dbcb22a",
+    "url": "/ant2020/static/css/main.5b9d67a6.chunk.css"
   },
   {
     "revision": "9e0e80c246f41155176e",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ant2020/static/js/2.d3747d54.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0518cb900ed27395575b",
-    "url": "/ant2020/static/js/main.c262f45d.chunk.js"
+    "revision": "ad304dfa57072dbcb22a",
+    "url": "/ant2020/static/js/main.3499ffcc.chunk.js"
   },
   {
     "revision": "19d361d68c7dbdda8ec4",
     "url": "/ant2020/static/js/runtime-main.4eb3c8bd.js"
+  },
+  {
+    "revision": "23b13142181142e5eec252b14216e069",
+    "url": "/ant2020/static/media/dober.23b13142.png"
   },
   {
     "revision": "31298dd8cfae0bfff8db9374cdf09e6f",
@@ -30,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b2a921aee065273956f35c08c13f8214",
     "url": "/ant2020/static/media/mask.b2a921ae.png"
+  },
+  {
+    "revision": "dcca225cd1bc71273a2d49f1f0b1f928",
+    "url": "/ant2020/static/media/pit.dcca225c.png"
   }
 ]);
