@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Antastic-Prod/static/css/main.ad9da7db.chunk.css",
+    "main.js": "/Antastic-Prod/static/js/main.ae76d043.chunk.js",
+    "main.js.map": "/Antastic-Prod/static/js/main.ae76d043.chunk.js.map",
+    "runtime-main.js": "/Antastic-Prod/static/js/runtime-main.e50532fa.js",
+    "runtime-main.js.map": "/Antastic-Prod/static/js/runtime-main.e50532fa.js.map",
+    "static/js/2.45d273df.chunk.js": "/Antastic-Prod/static/js/2.45d273df.chunk.js",
+    "static/js/2.45d273df.chunk.js.map": "/Antastic-Prod/static/js/2.45d273df.chunk.js.map",
+    "index.html": "/Antastic-Prod/index.html",
+    "precache-manifest.a502d9e623d27fcbf3ca5ea547485fd9.js": "/Antastic-Prod/precache-manifest.a502d9e623d27fcbf3ca5ea547485fd9.js",
+    "service-worker.js": "/Antastic-Prod/service-worker.js",
+    "static/css/main.ad9da7db.chunk.css.map": "/Antastic-Prod/static/css/main.ad9da7db.chunk.css.map",
+    "static/js/2.45d273df.chunk.js.LICENSE.txt": "/Antastic-Prod/static/js/2.45d273df.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Antastic-Prod/static/media/markets.31298dd8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e50532fa.js",
+    "static/js/2.45d273df.chunk.js",
+    "static/css/main.ad9da7db.chunk.css",
+    "static/js/main.ae76d043.chunk.js"
+  ]
+}
