@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "750f5f459644cfb8808ca6d9132d91e3",
+    "revision": "0ab3132299dd8a265e1ba919546a9c7f",
     "url": "/ant2020/index.html"
   },
   {
