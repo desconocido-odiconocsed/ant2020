@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6c427202479e6ab6f6aaa45f225cb73",
+    "revision": "a324a4b98d2716338e232d9e6b1b399c",
     "url": "/ant2020/index.html"
   },
   {
-    "revision": "721c8569e2c208d51559",
+    "revision": "e0caabce9f2903776b4c",
     "url": "/ant2020/static/css/main.75168d4c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ant2020/static/js/2.45d273df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "721c8569e2c208d51559",
-    "url": "/ant2020/static/js/main.a239cf1e.chunk.js"
+    "revision": "e0caabce9f2903776b4c",
+    "url": "/ant2020/static/js/main.fe933be5.chunk.js"
   },
   {
     "revision": "19d361d68c7dbdda8ec4",
